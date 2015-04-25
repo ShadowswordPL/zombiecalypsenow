@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zombiecalypse Now</string>
+    
+    <string name="aboutAuthors"> Zombicalypse Now was produced by four students of Warsaw University:\n\n
+        				Andrzej Jackowski\n
+        				Cezary Kosko\n
+        				Krzysztof Kiljan\n
+        				Przemysław Gumienny\n
+        				 </string>
+</resources>

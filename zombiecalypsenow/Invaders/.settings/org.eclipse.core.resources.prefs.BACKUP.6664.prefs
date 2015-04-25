@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+<<<<<<< HEAD
+encoding//src/io/zombie/Gameover.java=UTF-8
+encoding//src/io/zombie/Menu.java=UTF-8
+encoding//src/io/zombie/Zombie.java=UTF-8
+encoding//src/io/zombie/ZombieWorld.java=UTF-8
+encoding//src/io/zombie/drawable2D/HealthBar.java=UTF-8
+encoding//src/io/zombie/drawable2D/Undead2D.java=UTF-8
+encoding//src/io/zombie/hud/Scope.java=UTF-8
+=======
+encoding//src/es/ucm/invaders/Invaders.java=UTF-8
+encoding//src/es/ucm/invaders/InvadersWorld.java=UTF-8
+>>>>>>> 5891e958b50a17c45bc189272c240067c6f5842a
